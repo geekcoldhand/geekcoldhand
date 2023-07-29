@@ -7,7 +7,7 @@
 ### Hi, I'm Horatious, and welcome to my Github
 
 - 🎓 I hold a Full Stack Web Development Certificate through GA Tech [December 2022]
-- 🌱 I’m currently building SpringBoot + Thymleaf and MERN full-stack apps
+- 🌱 I’m currently building SpringBoot and MERN full-stack apps
 - ⚡ Fun fact: Sometimes I'm a Fashion Designer and Pattern Maker. 
 - 💡 I love sharing ideas and working in parallel
 - 👯 I’m looking to collaborate on practical and helpful app ideas
