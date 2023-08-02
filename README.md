@@ -20,10 +20,9 @@
 
 
 - 📫 How to reach me:
- <br>
- <a href="https://www.linkedin.com/in/horatious-harris-ii-41970a159/">LinkedIn</a>
- <br>
- <a href="horatiousaharris@gmail.com">Email</a>
+  <a href="horatiousaharris@gmail.com">Email</a> || <a href="https://www.linkedin.com/in/horatious-harris-ii-41970a159/">LinkedIn</a>
+  
+
   
 
 
