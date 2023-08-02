@@ -18,7 +18,10 @@
 <code><img height="20" alt="c-sharp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 
 
-- 📫 How to reach me: horatiousaharris@gmail.com
+
+- 📫 How to reach me:
+ <a href="https://www.linkedin.com/in/horatious-harris-ii-41970a159/">LinkedIn</a>
+ <a href="horatiousaharris@gmail.com">Email</a>
   
 
 
