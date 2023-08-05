@@ -6,12 +6,12 @@
 
 ### Hi, I'm Horatious, and welcome to my Github
 
-- 🎓 I studied Comp Sci at KSU and UWG and hold a Full Stack Web Development Certificate through GA Tech
-- 🌱 I’m currently building SpringBoot and MERN full-stack web apps
-- 🤍 I love Web and IoT development and its intersections  
-- ⚡ Fun fact: Sometimes I'm a Fashion Designer and Pattern Maker. 
-- 💡 I love sharing ideas, problem-solving, and working in parallel
-- 👯 I’m looking to collaborate on practical and helpful app ideas in these languages 
+- 🎓 Studied Comp Sci @UWG and Full Stack Web Dev @GATech
+- 🌱 Building Web with SpringBoot, IoT with Python, and C# animated graphics
+- 🤍 Web and IoT sharing paradigm strategies, problem-solving, and parallel development
+- ⚡ Fun fact: I draft clothing patterns and sew wearable garments
+- 🐶 I have a Frenchie named Romeo who follows me around
+- 👯 I’m looking to collaborate on practical and helpful projects
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
