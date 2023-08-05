@@ -8,7 +8,7 @@
 
 - 🎓 Studied Comp Sci @UWG and Full Stack Web Dev @GATech
 - 🌱 Building Web with SpringBoot, IoT with Python, and C# animated graphics
-- 🤍 Web and IoT sharing paradigm strategies, problem-solving, and parallel development
+- 🤍 Web, IoT, sharing paradigm strategies, problem-solving, and parallel development
 - ⚡ Fun fact: I draft clothing patterns and sew wearable garments
 - 🐶 I have a Frenchie named Romeo who follows me around
 - 👯 I’m looking to collaborate on practical and helpful projects
