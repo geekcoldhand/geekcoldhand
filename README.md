@@ -7,7 +7,7 @@
 ### Hi, I'm Horatious, and welcome to my Github
 
 - 🎓 Studied Comp Sci @UWG and Full Stack Web Dev @GATech
-- 🌱 Building Web with SpringBoot, IoT with Python, and C# animated graphics
+- 🌱 Building Web with Java SpringBoot, IoT with Python, and C# animated graphics
 - 🤍 Web, IoT, sharing paradigm strategies, problem-solving, and parallel development
 - ⚡ Fun fact: I draft clothing patterns and sew wearable garments
 - 🐶 I have a Frenchie named Romeo
