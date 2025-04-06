@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 <!--
 **geekcoldhand/geekcoldhand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +7,7 @@
 ### Hi, I'm Horatious, and welcome to my Github
 
 - 🎓 Studied Comp Sci @UWG and Full Stack Web Dev @GATech
-- 🌱 Building Web with Javascript, Java SpringBoot, IoT with Python, and C# animated graphics
+- 🌱 Building Web with Typescript, Java SpringBoot, IoT with Python, and C# animated graphics
 - 🤍 Web, IoT, problem-solving, and parallel development
 - ⚡ Fun fact: I draft clothing patterns and sew wearable garments
 - 🐶 I have a Frenchie named Romeo
